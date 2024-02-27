@@ -6,7 +6,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
 }
 body{
     background: url("/imagens/fundo-medico-anatomia-do-cerebro-de-papel-amarrotada-com-a-ampola.jpg");
